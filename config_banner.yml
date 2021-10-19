@@ -1,5 +1,5 @@
 ---
-- hosts: ios
+- hosts: AWX-AWS-Host
   gather_facts: no
 
   tasks:
