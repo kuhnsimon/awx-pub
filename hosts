@@ -1,0 +1,7 @@
+[ios]
+10.0.2.169  ansible_host=10.0.2.169
+
+[ios:vars]
+
+ansible_network_os=ios
+ansible_connection=network_cli
